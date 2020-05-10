@@ -14,8 +14,8 @@ HTTP.createServer((req, res) => {
     if (!allowed) return
 
     fs.readFile(filePath, (err, content) => {
-            if (err) throw err
+        if (err) throw err
 
-            res.end(content)
+        res.end(content)
     })
-}).listen(5000, () => console.log('API running on http://localhost:5000'))
+}).listen(5000, () => console.log('Server running at http://localhost:5000'))
