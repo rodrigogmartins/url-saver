@@ -15,11 +15,11 @@ Project make for my learning with Node.JS, it's a very simple application using 
 *Go to http://localhost:5000 and see the website.*
 
 ## Adquired/Exercited learnings with the process
-1. Modules
-1.1 Nodemon
-1.2 File System
-1.3 Http
-1.4 Path
+1. Modules 
+ 1. Nodemon
+ 1. File System
+ 1. Http
+ 1. Path
 1. Module (Require/Exports)
 1. Http Server (Node.JS only)
 1. API concepts 
