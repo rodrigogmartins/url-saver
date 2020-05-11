@@ -7,7 +7,7 @@ const urlSaverRest = {
     'GET': function({ res }) {
         try {
             res.statusCode = 200
-            res.end(JSON.stringify(data))            
+            res.end(JSON.stringify(data))
         } catch (error) {
             res.statusCode = 500
             res.end("Any problem on server has occurred on try get urls from file")            

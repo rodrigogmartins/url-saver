@@ -7,6 +7,10 @@
     {
       "name": "Youtube",
       "url": "http://youtube.com"
+    },
+    {
+      "name": "MDN",
+      "url": "https://developer.mozilla.org/pt-BR/"
     }
   ]
 }

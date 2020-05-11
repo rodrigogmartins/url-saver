@@ -25,8 +25,14 @@ h1 {
     font-size: 3.4rem;
 }
 
+form {
+    display: flex;
+    justify-content: center;
+}
+
 input {
     width: 100%;
+    max-width: 750px;
     padding: 8px 16px;
     margin-bottom: 32px;
     border-radius: 16px;
