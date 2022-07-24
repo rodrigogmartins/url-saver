@@ -1,8 +1,6 @@
 # URL Saver
-### (Without Express)
----
-## Explain
-Project make for my learning with Node.JS, it's a very simple application using http module and API restful concepts.
+
+Project made for my learning with Node.JS, it's a very simple application using the http module and restful API concepts.
 
 ## Run tutorial
 ```
